@@ -1,6 +1,6 @@
 {
-  "homepage": "https://chinflee2.github.io/website",
-  "name": "landingpage-react-template",
+  "homepage": "https://chinflee2.github.io/bits",
+  "name": "bits",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
