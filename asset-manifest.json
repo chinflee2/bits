@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.a810b0d6.css",
-    "main.js": "/website/static/js/main.699314a4.js",
-    "static/media/bits-logo.png": "/website/static/media/bits-logo.4405d5041a882c592de0.png",
-    "index.html": "/website/index.html",
-    "main.a810b0d6.css.map": "/website/static/css/main.a810b0d6.css.map",
-    "main.699314a4.js.map": "/website/static/js/main.699314a4.js.map"
+    "main.css": "/bits/static/css/main.a810b0d6.css",
+    "main.js": "/bits/static/js/main.dd9ecc0b.js",
+    "static/media/bits-logo.png": "/bits/static/media/bits-logo.4405d5041a882c592de0.png",
+    "index.html": "/bits/index.html",
+    "main.a810b0d6.css.map": "/bits/static/css/main.a810b0d6.css.map",
+    "main.dd9ecc0b.js.map": "/bits/static/js/main.dd9ecc0b.js.map"
   },
   "entrypoints": [
     "static/css/main.a810b0d6.css",
-    "static/js/main.699314a4.js"
+    "static/js/main.dd9ecc0b.js"
   ]
 }
